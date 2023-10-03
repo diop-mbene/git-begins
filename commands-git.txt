@@ -1,8 +1,8 @@
 sudo apt instqall git-all (pour installer git)
-git clone
-git add
-git commit
-git push
-git branch
+git clone permet de copier des dossiers/fichiers 
+git add permet d'ajouter des modifications 
+git commit permet de creer un nouveau commit contenant des modifications 
+git push permet de transferer un commi
+git branch permet de lister les nombres de braches 
 
 
